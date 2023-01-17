@@ -1,0 +1,19 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "John Griffiths"
+description = "Technology-based ramblings of a 20-something year-old nerd from Wales. Enjoy technology news, reviews and tutorials from topics large and small, here."
+
+[author]
+name = "John Griffiths"
+image = "img/author.jpg"
+headline = "Just a bit of a tech nerd."
+bio = "Digital Marketer, Technology Enthusiast, Avid Self-Hoster."
+links = [
+  { twitter = "https://twitter.com/JohnWAGriffiths" },
+  { linkedin = "https://www.linkedin.com/in/johnwagriffiths/" }
+]

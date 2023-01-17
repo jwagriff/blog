@@ -1,0 +1,14 @@
+[[main]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 10
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 30

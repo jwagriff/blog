@@ -1,0 +1,4 @@
+[submodule "johngriffiths/public"]
+	path = johngriffiths/public
+	url = https://github.com/jwagriff/jwagriff.github.io.git
+	branch = main

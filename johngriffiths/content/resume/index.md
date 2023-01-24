@@ -19,10 +19,6 @@ showLikes: false
 scrollToTop: true
 ---
 
-## Profile
-
-From content marketing to songwriting, my creativity is a major factor that influences my decision-making - it allows me to think outside the box whilst making a real difference. I am a hardworking, self-motivated digital content specialist seeking a senior position where my skills can be put to good use.
-
 ## Experience
 
 <table class="resume-table">
